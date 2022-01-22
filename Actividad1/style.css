@@ -1,0 +1,179 @@
+
+:root {
+    --main-bg-color: brown;
+  }
+body{
+    background-color:  #74b49b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.Main{
+    background-color: #FFFFFF;
+    border:1px solid ;
+    padding: 12px;
+    width: 60%;
+    margin: 0x auto;
+}
+p{
+    color: brown;
+}
+h1{
+    font-family: Lobster;
+    color: #FFC300;
+    font-size: 45px;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+background-color: #74b49b;
+padding: 5px;
+border-radius: 20px;
+font-weight: bold;
+text-align: center;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 12px;
+    margin-right: 30px;
+    float: left;
+}
+
+.listH li{
+    display: inline;
+    padding-left: 50px;
+    padding-right: 15px;
+    list-style: circle;
+    color: brown;
+}
+.textrig{
+    float: right;   
+}
+ul{
+    list-style:  none;
+}
+h3{
+   text-align: center; 
+}
+
+#interest{
+    text-align: center;
+}
+#HTML {
+    float: left;
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width: 200px;
+    padding: 3px;
+}
+
+#HTML:after {
+    content: '60%';
+    display: block;
+    background: #FF1717;
+    width: 60%;
+    height: 100%;
+    border-radius: 9px;
+}
+#CSS {
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width:  200px;
+    padding: 3px;
+}
+
+#CSS:after {
+    
+    content: '40%';
+    display: block;
+    background: #FFFB0F;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+#Cplus {
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width:  200px;
+    padding: 3px;
+}
+
+#Cplus:after {
+    
+    content: '40%';
+    display: block;
+    background: #FFFB0F;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+
+
+
+#idioma {
+    margin-left: 350px;
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width: 200px;
+    padding: 3px;
+}
+
+#idioma:after {
+    content: '50%';
+    display: block;
+    background: #FF1717;
+    width: 50%;
+    height: 100%;
+    border-radius: 9px;
+}
+
+
+#pro {
+    float: left;
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width:  200px;
+    padding: 3px;
+}
+
+#pro:after {
+    
+    content: '40%';
+    display: block;
+    background: #FFFB0F;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+#logic {
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width:  200px;
+    padding: 3px;
+}
+
+#logic:after {
+    
+    content: '40%';
+    display: block;
+    background: #FFFB0F;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+
+.textos{
+    margin-left: 230px; 
+    margin-right: 300px; 
+    float: left;
+}
