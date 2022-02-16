@@ -1,0 +1,192 @@
+{
+    "anims": [
+        {
+            "key": "right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "animations",
+                    "frame": "animations_0"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_1"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_2"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_3"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_4"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_5"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_6"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_7"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_8"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_9"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_10"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_11"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_0"
+                }
+            ]
+        },
+        {
+            "key": "jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 9,
+            "frames": [
+                {
+                    "key": "animations",
+                    "frame": "animations_23"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "animations",
+                    "frame": "animations_12"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_13"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_14"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_15"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_16"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_17"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_18"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_19"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_20"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_21"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_22"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_12"
+                }
+            ]
+        },
+        {
+            "key": "left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "animations",
+                    "frame": "animations_0"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_1"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_2"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_3"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_4"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_5"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_6"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_7"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_8"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_9"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_10"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_11"
+                },
+                {
+                    "key": "animations",
+                    "frame": "animations_0"
+                }
+            ]
+        }
+    ]
+}
